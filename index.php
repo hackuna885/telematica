@@ -73,6 +73,9 @@ $id = (isset($_GET['id'])) ? $_GET['id'] : '';
                             case 'califica':
                                 include 'assets/inc/califica.inc';
                                 break;
+                            case 'listas':
+                                include 'assets/inc/listas.inc';
+                                break;
                             
                             default:
                                 include 'assets/inc/inicio.inc';
@@ -83,12 +86,50 @@ $id = (isset($_GET['id'])) ? $_GET['id'] : '';
                 </div>
                 <!-- CONTENIDO -->
 
+                <?php
+                    switch ($id) {
+                        case 'listas':
+                            echo '
+                            
+                            <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                    <h3 class="modal-title text-danger" id="staticBackdropLabel">¡Importante!</h3>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                    Si tu nombre <b class="text-danger">NO aparece en listas</b>, favor de pasar a dirección, con gusto te atenderemos.
+                                    </div>
+                                    <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Entendido</button>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+
+                            <script>
+                                // Ejecutar Modal
+                                window.onload = function() {
+                                    $("#staticBackdrop").modal("show");
+                                };
+                            </script>
+
+                            ';
+                            break;
+                    }
+
+                ?>
+                    
+                    
+
             </div>
 
         </div>
     </div>
 
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 
     <script type="text/javascript">
         $(document).ready(function () {
@@ -103,7 +144,7 @@ $id = (isset($_GET['id'])) ? $_GET['id'] : '';
                 $('#sidebar').toggleClass('active');
             });
         });
-    </script>
+    </script>    
     
     
 </body>
