@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Horario de Aulas y Laboratorios 2022-1</h1>
                             <p class="py-3 text-center">
-                                Actualización 21/12/2021 11:30 a.m.
+                                Actualización 10/01/2022 10:54 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-4 mx-auto">
@@ -134,6 +134,18 @@
                                             </tr>
                                         </thead>
                                         <tbody>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1FqqwBTU35mPbFFH7J5VhVNtBhjJtHnJv/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            K Audirorio
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
