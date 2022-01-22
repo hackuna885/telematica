@@ -115,7 +115,7 @@
                                                         <a href="https://drive.google.com/file/d/1woGKLFoStZIu1vBP5EgEnkIckLKmeKRr/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            IRIC 801
+                                                            IRIC 801 <div style="margin-left: 5px; font-size: .7em; font-style: italic;">Actualización 21/01/2022 10:47 p.m.</div>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -127,7 +127,7 @@
                                                         <a href="https://drive.google.com/file/d/1mBJvn8eFnkl0cygMMnKJ9aF47XIUBSWD/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            IRIC 802
+                                                            IRIC 802 <div style="margin-left: 5px; font-size: .7em; font-style: italic;">Actualización 21/01/2022 10:45 p.m.</div>
                                                             </div>
                                                         </a>
                                                     </div>
