@@ -4,7 +4,6 @@
                             
                             <h1 class="py-3 text-center">Listas provisionales 2022-1</h1>
                             <p class="py-3 text-center">
-                                Actualización 10/01/2022 10:54 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">
@@ -81,7 +80,7 @@
                                                         <a href="https://drive.google.com/file/d/1LCGuIss4npXLNfhTLGz9XXWVQhSFnKsO/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            IRD 501
+                                                            IRD 501 <div style="margin-left: 5px; font-size: .7em; font-style: italic;">Actualización 21/01/2022 08:49 p.m.</div>
                                                             </div>
                                                         </a>
                                                     </div>
