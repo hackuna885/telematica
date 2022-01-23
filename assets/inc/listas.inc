@@ -139,7 +139,7 @@
                                                         <a href="https://drive.google.com/file/d/1QtK5c24qJk28e668cNeJTurjbytkhOyA/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            IRIC 1001 <div style="margin-left: 5px; font-size: .7em; font-style: italic;">Actualización 21/01/2022 09:44 p.m.</div>
+                                                            IRIC 1001 <div style="margin-left: 5px; font-size: .7em; font-style: italic;">Actualización 22/01/2022 12:57 p.m.</div>
                                                             </div>
                                                         </a>
                                                     </div>
