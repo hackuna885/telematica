@@ -6,22 +6,22 @@
                         </a>
                     </li>                 
                 </ul>
-                <!-- <ul class="list-unstyled components">
+                <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=horarios" class="py-3">
                             <i class="bx bx-calendar mx-2"></i>
                             <span class="links_name">Horarios</span>
                         </a>
                     </li>                 
-                </ul> -->
-                <!-- <ul class="list-unstyled components">
+                </ul>
+                <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=aulas" class="py-3">
                             <i class="bx bxs-school mx-2"></i>
                             <span class="links_name">Aulas</span>
                         </a>
                     </li>                 
-                </ul> -->
+                </ul>
                 <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=califica" class="py-3">
