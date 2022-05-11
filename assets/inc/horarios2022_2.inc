@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Horarios de Grupo 2022-2</h1>
                             <p class="py-3 text-center">
-                                Actualización 29/04/2022 09:01 p.m.
+                                Actualización 10/05/2022 08:22 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">

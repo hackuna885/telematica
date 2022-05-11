@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Concentrado de calificaciones 2022-1</h1>
                             <p class="py-3 text-center">
-                                Actualización 08/04/2022 11:01 p.m.
+                                Actualización 10/05/2022 08:41 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">
@@ -22,7 +22,8 @@
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Concentrado IRD 201
-                                                            </div>
+                                                        </div>
+                                                        <div class="fw-light fst-italic text-end" style="font-size: .7em;">Actualización 10/05/2022</div>
                                                         </a>
                                                     </div>
                                                 </td>
@@ -34,7 +35,8 @@
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Concentrado IRD 202
-                                                            </div>
+                                                        </div>
+                                                        <div class="fw-light fst-italic text-end" style="font-size: .7em;">Actualización 10/05/2022</div>
                                                         </a>
                                                     </div>
                                                 </td>
@@ -46,7 +48,8 @@
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Concentrado IRD 203
-                                                            </div>
+                                                        </div>
+                                                        <div class="fw-light fst-italic text-end" style="font-size: .7em;">Actualización 10/05/2022</div>
                                                         </a>
                                                     </div>
                                                 </td>
@@ -117,7 +120,8 @@
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Concentrado IRIC 801
-                                                            </div>
+                                                        </div>
+                                                        <div class="fw-light fst-italic text-end" style="font-size: .7em;">Actualización 10/05/2022</div>
                                                         </a>
                                                     </div>
                                                 </td>
@@ -141,7 +145,8 @@
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Concentrado IRIC 1001
-                                                            </div>
+                                                        </div>
+                                                        <div class="fw-light fst-italic text-end" style="font-size: .7em;">Actualización 10/05/2022</div>
                                                         </a>
                                                     </div>
                                                 </td>
@@ -153,7 +158,8 @@
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Concentrado IRIC 1003
-                                                            </div>
+                                                        </div>
+                                                        <div class="fw-light fst-italic text-end" style="font-size: .7em;">Actualización 10/05/2022</div>
                                                         </a>
                                                     </div>
                                                 </td>

@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Horario de Aulas y Laboratorios 2022-1</h1>
                             <p class="py-3 text-center">
-                                Actualización 29/04/2022 10:54 p.m.
+                                Actualización 10/05/2022 08:24 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 mx-auto">
@@ -18,10 +18,22 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1Xfusfwfpqxf_E7aYTR1aMZmYXP1Uz9gG/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1CWC31J8GWnWaN-Q8Eo9zo3WwShzfGu0I/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            D100
+                                                            D100 Matutino
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1eSJ8DaPjE7gI_wzDOca2rxSFjSL65YbA/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            D100 Vespertino
                                                             </div>
                                                         </a>
                                                     </div>
@@ -114,10 +126,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1p_U-As6NgFhL4p1vodg9VTgp_MAtzlpM/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1GZRl8r0emaoh4NbFvRdG6efJN8Bh08Ly/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            K105
+                                                            K105 Matutino
                                                             </div>
                                                         </a>
                                                     </div>
@@ -126,10 +138,34 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1Yqupk_6JWu4h2GowW-g0POftnIB8YL5e/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1YME8dMzQgwbGPkQfRyoJU_m6z141ozUG/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            K108
+                                                            K105 Vespertino
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1u-Zs7ffNBlZWEPoZSboPOxVYau2ul7c1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            K108 Matutino
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/14It8dzFkXa0HLsEtkhfm-OIoPRd6Ur9r/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            K108 Vespertino
                                                             </div>
                                                         </a>
                                                     </div>
@@ -142,6 +178,18 @@
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             K Dirección Matutino
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1Iq7UWg4to3fRVLE0yRzezQ_J0Zr7LSE8/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            K Dirección Vespertino
                                                             </div>
                                                         </a>
                                                     </div>
