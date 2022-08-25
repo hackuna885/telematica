@@ -106,7 +106,6 @@
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Concentrado IRIC 901
                                                         </div>
-                                                        <div class="fw-light fst-italic text-end" style="font-size: .7em;">Actualización 10/05/2022</div>
                                                         </a>
                                                     </div>
                                                 </td>
