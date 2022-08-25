@@ -71,7 +71,7 @@ $id = (isset($_GET['id'])) ? $_GET['id'] : '';
                                 include 'assets/inc/aulas2022_2.inc';
                                 break;
                             case 'califica':
-                                include 'assets/inc/califica2022_1.inc';
+                                include 'assets/inc/califica2022_2.inc';
                                 break;
                             case 'listas':
                                 include 'assets/inc/listas.inc';
