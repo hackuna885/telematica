@@ -65,10 +65,10 @@ $id = (isset($_GET['id'])) ? $_GET['id'] : '';
                                 include 'assets/inc/inicio.inc';
                                 break;
                             case 'horarios':
-                                include 'assets/inc/horarios2022_2.inc';
+                                include 'assets/inc/horarios2022_3.inc';
                                 break;
                             case 'aulas':
-                                include 'assets/inc/aulas2022_2.inc';
+                                include 'assets/inc/aulas2022_3.inc';
                                 break;
                             case 'califica':
                                 include 'assets/inc/califica2022_2.inc';

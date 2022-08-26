@@ -1,7 +1,7 @@
                     <div class="row contenido">
                         <div class="col-12 mx-auto text-center">
-                            <video class="video-fluid z-depth-1" autoplay loop controls muted style="width: 70%;">
-                                <source src="videos/serDragon.mp4" type="video/mp4" />
+                            <video class="video-fluid z-depth-1 mx-auto text-center" autoplay loop controls muted style="width: 80%;">
+                                <source src="videos/serDragon.mp4" type="video/mp4"/>
                             </video>                              
                         </div>
 
