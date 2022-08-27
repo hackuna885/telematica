@@ -18,10 +18,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/16-L3OdBslBFs9Oozk-QH_Ya6vsxa2bC3/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            D100 Matutino
+                                                            D100
                                                             </div>
                                                         </a>
                                                     </div>
@@ -30,10 +30,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1qkGMs6oFh3fHnDbhybklTCHWc-5uNxO-/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            D100 Vespertino
+                                                            D201
                                                             </div>
                                                         </a>
                                                     </div>
@@ -42,10 +42,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/16D3dRQBR46lQyO8YDGSd9tToCfKeD4FS/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            D201 Matutino
+                                                            D202
                                                             </div>
                                                         </a>
                                                     </div>
@@ -54,10 +54,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/12ORPOtP_NESRFHj31LsAXYjj2sdNze1f/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            D202 Matutino
+                                                            D206
                                                             </div>
                                                         </a>
                                                     </div>
@@ -66,46 +66,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1U51kne9gtoALYvC1OyOvhPd5P--zXoVb/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            D206 Matutino
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <div class="centrado-v">
-                                                            <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            D206 Vespertino
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <div class="centrado-v">
-                                                            <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            D207 Matutino
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <div class="centrado-v">
-                                                            <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            D207 Vespertino
+                                                            D207
                                                             </div>
                                                         </a>
                                                     </div>
@@ -126,10 +90,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1dbkvRUPEl6RhrwmtWc3FIcIYadOY-TrA/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            K105 Matutino
+                                                            K105
                                                             </div>
                                                         </a>
                                                     </div>
@@ -138,10 +102,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1w61wc349R6S92qfCQ6jSL4-InQyGkDtV/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            K105 Vespertino
+                                                            K108
                                                             </div>
                                                         </a>
                                                     </div>
@@ -150,10 +114,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1fbIZx-w8DY4dw80-dqZfRLwZGPh6jkJU/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            K108 Matutino
+                                                            K109
                                                             </div>
                                                         </a>
                                                     </div>
@@ -162,19 +126,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <div class="centrado-v">
-                                                            <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            K108 Vespertino
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1O363fcVNWdE6mwNl8U8_M9WfY0Y0CP0c/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             K Dirección Matutino
@@ -186,10 +138,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1dVudj8VTPdl-t__pWq3ouMR_F7T5G9cg/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            K Dirección Vespertino
+                                                            Auditorio K P-B
                                                             </div>
                                                         </a>
                                                     </div>
@@ -197,6 +149,31 @@
                                             </tr>
                                         </tbody>
                                     </table>
+                                </div>
+                                <div class="col-md-6 mx-auto">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th>Edificio G</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1eGUawiiYsJzrOpZyFkk75MSYDswTYlPY/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            Lab G (Admon)
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="col-md-6 mx-auto">
                                 </div>
                             </div>
                         </div>

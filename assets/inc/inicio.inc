@@ -1,8 +1,10 @@
                     <div class="row contenido">
                         <div class="col-12 mx-auto text-center">
-                            <video class="video-fluid z-depth-1 mx-auto text-center" autoplay loop controls muted style="width: 80%;">
-                                <source src="videos/serDragon.mp4" type="video/mp4"/>
-                            </video>                              
+                            <div>
+                                <video class="video-fluid z-depth-1 mx-auto text-center" autoplay loop controls muted width="100%">
+                                    <source src="videos/serDragon.mp4" type="video/mp4"/>
+                                </video>                              
+                            </div>
                         </div>
 
                         <!-- <div class="col-12 rounded shadow-sm rounded pb-5">
@@ -20,7 +22,7 @@
                         </div> -->
 
                         <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
-                            <h1 class="py-3 text-center text-danger">Beneficiados por Beca Ciencia 2022</h1>
+                            <h1 class="py-3 text-center text-danger mt-5">Beneficiados por Beca Ciencia 2022</h1>
                             <img src="img/becaCiencia.png" class="img-fluid my-3" alt="Beneficiados por Beca Ciencia 2022">
                             <p class="py-3">
                                 
