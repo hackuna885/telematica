@@ -30,14 +30,14 @@
                         </a>
                     </li>                 
                 </ul>
-                <!-- <ul class="list-unstyled components">
+                <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=listas" class="py-3">
                             <i class="bx bx-user-voice mx-2"></i>
                             <span class="links_name">Listas</span>
                         </a>
                     </li>                 
-                </ul> -->
+                </ul>
                 <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=especiales" class="py-3">
