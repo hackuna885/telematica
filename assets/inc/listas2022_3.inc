@@ -66,7 +66,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/138DvJgPwKtHtgfLmEWKp6By_wGwNWG2e/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRD 401
@@ -78,7 +78,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1TQpG1asYoQCQHAQcwKfLD8sxFOqeLtBB/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRD 402
