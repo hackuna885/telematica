@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Horario de Aulas y Laboratorios 2022-3</h1>
                             <p class="py-3 text-center">
-                                Actualización 26/08/2022 13:24 p.m.
+                                Actualización 28/08/2022 21:03 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 mx-auto">
@@ -161,7 +161,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1eGUawiiYsJzrOpZyFkk75MSYDswTYlPY/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1LUV-eiY0ftjwSfEO-G1XTvR3Or0RH_kn/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Lab G (Admon)
