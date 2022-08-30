@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Listas de Grupo 2022-3</h1>
                             <p class="py-3 text-center">
-                                Actualización 29/08/2022 17:12 p.m.
+                                Actualización 29/08/2022 15:14 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">
@@ -42,7 +42,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1Xb_-wvgbdMfe_Fdpqqg0IQxdKVxwVMHm/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1GgnlhVrZCv0iMLjNvHiGIZFV0P88urRu/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRD 103
@@ -54,7 +54,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1WV0HM1LKYUhoTltKqzTcjUYRpLwRCXyI/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1G9-q-9nXgppNI2Nor1sR_uyuK_nf66yZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRD 104
