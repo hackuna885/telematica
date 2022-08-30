@@ -42,10 +42,22 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1Xb_-wvgbdMfe_Fdpqqg0IQxdKVxwVMHm/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            IRD 103 (Pendiente)
+                                                            IRD 103
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1WV0HM1LKYUhoTltKqzTcjUYRpLwRCXyI/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            IRD 104
                                                             </div>
                                                         </a>
                                                     </div>
