@@ -141,7 +141,7 @@
                                                         <a href="https://drive.google.com/file/d/1J0jplw0ZasdwFgVsy-qPMr3G5gYzD-bi/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            IRIC 1001
+                                                            IRIC 1001 (VESPERTINO)
                                                             </div>
                                                         </a>
                                                     </div>
@@ -152,7 +152,7 @@
                                                             <a href="https://drive.google.com/file/d/1w-WqfE4jv4uwVNzUEMpgUwY7nm_CKSn9/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                IRIC 1002
+                                                                IRIC 1002 (VESPERTINO)
                                                                 </div>
                                                             </a>
                                                         </div>
