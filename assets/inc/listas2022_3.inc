@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Listas de Grupo 2022-3</h1>
                             <p class="py-3 text-center">
-                                Actualización 01/09/2022 19:14 p.m.
+                                Actualización 03/09/2022 06:40 a.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">
