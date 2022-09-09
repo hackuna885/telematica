@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Horario de Aulas y Laboratorios 2022-3</h1>
                             <p class="py-3 text-center">
-                                Actualización 28/08/2022 21:03 p.m.
+                                Actualización 09/09/2022 11:03 a.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 mx-auto">
