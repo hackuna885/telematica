@@ -174,6 +174,27 @@
                                     </table>
                                 </div>
                                 <div class="col-md-6 mx-auto">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th>Edificio J Biblioteca</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1VQphwUW2I_Bem9Vl2AfHTe7j-br58LiE/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            Lab Biblioteca
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
