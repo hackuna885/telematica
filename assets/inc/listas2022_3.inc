@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Listas de Grupo 2022-3</h1>
                             <p class="py-3 text-center">
-                                Actualización 03/09/2022 06:40 a.m.
+                                Actualización 10/09/2022 07:21 a.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">
@@ -106,6 +106,18 @@
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRD 501 (VESPERTINO)
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1movM3mN5YOVTL3lvV3slueZZzUWwkfJ4/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            IRD 601 (ESTADÍAS)
                                                             </div>
                                                         </a>
                                                     </div>
