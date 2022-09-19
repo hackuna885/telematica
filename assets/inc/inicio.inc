@@ -59,7 +59,7 @@
                                     <tr>
                                         <td>
                                             <div class="liLinks my-1">
-                                                <a href="https://comecyt.edomex.gob.mx/node/334#:~:text=Convocatoria(CIBERTALENTO%20CONV%2D22%2DACT%205%2D9%2D22_FINAL.pdf)" target="_blank" rel="noopener noreferrer">
+                                                <a href="https://comecyt.edomex.gob.mx/sites/comecyt.edomex.gob.mx/files/files/cibertalento/CIBERTALENTO%20CONV-22-ACT%205-9-22_FINAL.pdf" target="_blank" rel="noopener noreferrer">
                                                     <div class="centrado-v">
                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                     Convocatoria(CIBERTALENTO CONV-22-ACT 5-9-22_FINAL.pdf)
@@ -92,7 +92,7 @@
                                     <tr>
                                         <td>
                                             <div class="liLinks my-1">
-                                                <a href="https://comecyt.edomex.gob.mx/node/334#:~:text=T%C3%A9rminos%20y%20condiciones.pdf" target="_blank" rel="noopener noreferrer">
+                                                <a href="https://comecyt.edomex.gob.mx/sites/comecyt.edomex.gob.mx/files/files/cibertalento/T%C3%A9rminos%20y%20condiciones%20politicas%20de%20seguridad_V4%20TRANSPARENCIA.pdf" target="_blank" rel="noopener noreferrer">
                                                     <div class="centrado-v">
                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                     Términos y condiciones.pdf
