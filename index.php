@@ -79,6 +79,9 @@ $id = (isset($_GET['id'])) ? $_GET['id'] : '';
                             case 'especiales':
                                 include 'assets/inc/especiales.inc';
                                 break;
+                            case 'documentos':
+                                include 'assets/inc/documentos.inc';
+                                break;
                             
                             default:
                                 include 'assets/inc/inicio.inc';
