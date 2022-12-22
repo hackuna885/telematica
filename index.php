@@ -142,20 +142,18 @@ con gusto te atenderemos.
 
     <script type="text/javascript">
         $(document).ready(function () {
-            $('#sidebarCollapse').on('click'
-function () {
+            $('#sidebarCollapse').on('click', function () {
                 $('#sidebar').toggleClass('active');
             });
         });
     </script>
     <script type="text/javascript">
         $(document).ready(function () {
-            $('#sidebarCollapse2').on('click'
-function () {
+            $('#sidebarCollapse2').on('click', function () {
                 $('#sidebar').toggleClass('active');
             });
         });
-    </script>    
+    </script>
     
     
 </body>
