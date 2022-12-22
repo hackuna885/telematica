@@ -20,9 +20,14 @@
                                 Acerca de
                             </h4>
                             <p class="py-3">
-                                La acción “Cibertalento Edoméx 2022”, tiene como finalidad principal apoyar e incentivar el desarrollo profesional de personas interesadas en temas de ciberseguridad. 
+                                La acción “Cibertalento Edoméx 2022”
+tiene como finalidad principal apoyar e incentivar el desarrollo profesional de personas interesadas en temas de ciberseguridad. 
                                 <br>
-                                Los aspirantes deberán generar ideas innovadoras mediante la presentación de propuestas tales como aplicativos (Apps), páginas de internet, videos educativos, modelos de prevención, cursos de prevención u otros elementos que contribuyan a fortalecer la ciberseguridad en las áreas de:
+                                Los aspirantes deberán generar ideas innovadoras mediante la presentación de propuestas tales como aplicativos (Apps)
+páginas de internet
+videos educativos
+modelos de prevención
+cursos de prevención u otros elementos que contribuyan a fortalecer la ciberseguridad en las áreas de:
                                 <br>
                                 <ol>
                                     <li>Educación digital.</li> 
@@ -34,11 +39,14 @@
                             </p>
                             <h4>¿A quién está dirigido?</h4>
                             <p class="py-3">Desarrollo de aplicativos.
-                                Jóvenes mexiquenses menores de 29 años que actualmente estén cursando sus estudios en instituciones educativas públicas o privadas establecidas en el Estado de México, o que hayan egresado de alguna carrera enfocada a las áreas de atención. 
+                                Jóvenes mexiquenses menores de 29 años que actualmente estén cursando sus estudios en instituciones educativas públicas o privadas establecidas en el Estado de México
+o que hayan egresado de alguna carrera enfocada a las áreas de atención. 
                             </p>
                             <h4><b>Áreas de atención.</b></h4>
                             <p class="py-3">
-                                Los interesados en participar mediante la presentación de sus propuestas deberán contar con conocimientos en, al menos, alguna de las siguientes áreas:
+                                Los interesados en participar mediante la presentación de sus propuestas deberán contar con conocimientos en
+al menos
+alguna de las siguientes áreas:
                             
                             <ul>
                                 <li>Desarrollo de aplicativos.</li>
@@ -138,7 +146,8 @@
                                 <a class="liLinks" style="color: blue;" href="https://drive.google.com/file/d/16OUCR9ktWH_nEbVfZLg05cYWzf9QGKn_/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link de Beneficiados.</a>
                                 <br>
                                 <br>
-                                Nota: Todos los beneficiados por el programa <b>“Tarjeta Joven”</b> deberán presentarse en <b>"Becas"</b> ubicado en el edificio <b>“J”</b> y <b>cumplir con los documentos referidos en la convocatoria</b>, a más tardar el día <b>Jueves 26 de mayo de 2022</b>.
+                                Nota: Todos los beneficiados por el programa <b>“Tarjeta Joven”</b> deberán presentarse en <b>"Becas"</b> ubicado en el edificio <b>“J”</b> y <b>cumplir con los documentos referidos en la convocatoria</b>
+a más tardar el día <b>Jueves 26 de mayo de 2022</b>.
                                 <br>
                                 <br>
                                 <a style="color: blue;" href="https://drive.google.com/file/d/16OUCR9ktWH_nEbVfZLg05cYWzf9QGKn_/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link de Beneficiados.</a>

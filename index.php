@@ -13,7 +13,8 @@ $id = (isset($_GET['id'])) ? $_GET['id'] : '';
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width
+initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="css/animate.min.css">
@@ -65,13 +66,13 @@ $id = (isset($_GET['id'])) ? $_GET['id'] : '';
                                 include 'assets/inc/inicio.inc';
                                 break;
                             case 'horarios':
-                                include 'assets/inc/horarios2022_3.inc';
+                                include 'assets/inc/horarios2023_1.inc';
                                 break;
                             case 'aulas':
-                                include 'assets/inc/aulas2022_3.inc';
+                                include 'assets/inc/aulas2023_1.inc';
                                 break;
                             case 'califica':
-                                include 'assets/inc/califica2022_2.inc';
+                                include 'assets/inc/califica2022_3.inc';
                                 break;
                             case 'listas':
                                 include 'assets/inc/listas2022_3.inc';
@@ -105,7 +106,9 @@ $id = (isset($_GET['id'])) ? $_GET['id'] : '';
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                     </div>
                                     <div class="modal-body">
-                                    Si tu nombre <b class="text-danger">NO aparece en listas</b>, favor de pasar a dirección, con gusto te atenderemos.
+                                    Si tu nombre <b class="text-danger">NO aparece en listas</b>
+favor de pasar a dirección
+con gusto te atenderemos.
                                     </div>
                                     <div class="modal-footer">
                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Entendido</button>
@@ -139,14 +142,16 @@ $id = (isset($_GET['id'])) ? $_GET['id'] : '';
 
     <script type="text/javascript">
         $(document).ready(function () {
-            $('#sidebarCollapse').on('click', function () {
+            $('#sidebarCollapse').on('click'
+function () {
                 $('#sidebar').toggleClass('active');
             });
         });
     </script>
     <script type="text/javascript">
         $(document).ready(function () {
-            $('#sidebarCollapse2').on('click', function () {
+            $('#sidebarCollapse2').on('click'
+function () {
                 $('#sidebar').toggleClass('active');
             });
         });
