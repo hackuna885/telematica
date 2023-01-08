@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Horario de Aulas y Laboratorios 2023-1</h1>
                             <p class="py-3 text-center">
-                                Actualización 21/12/2022 01:03 p.m.
+                                Actualización 07/01/2023 11:01 a.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 mx-auto">

@@ -4,7 +4,7 @@
                                 
                                 <h1 class="py-3 text-center">Horarios de Grupo 2023-1</h1>
                                 <p class="py-3 text-center">
-                                    Actualización 20/12/2022 23:20 p.m.
+                                    Actualización 07/01/2023 11:01 a.m.
                                 </p>
                                 <div class="row">
                                     <div class="col-md-6 col-12">
