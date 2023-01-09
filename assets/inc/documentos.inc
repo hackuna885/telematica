@@ -26,6 +26,16 @@
                                                         </a>
                                                     </div>
                                                 </td>
+                                                <td>
+                                                    <div class="liLinks my-1">
+                                                        <a href="https://drive.google.com/file/d/1PGtFx9RHppOfXA3EtqVK0m0GvrY0ZaCm/view?usp=share_link" target="_blank" rel="noopener noreferrer">
+                                                            <div class="centrado-v">
+                                                            <i class="fontGrande bx bxs-file-pdf"></i>
+                                                            Dictamen_de_Acreditación_de_Carreras.pdf
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </td>
                                             </tr>
                                         </tbody>
                                     </table>
