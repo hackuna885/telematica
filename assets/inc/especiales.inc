@@ -21,7 +21,7 @@
                                                         <a href="https://drive.google.com/file/d/1YgCgmPncF3dPIQ1HnxbQPAmway1bgoEn/view?usp=share_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            Cuatrimestre: 2022-3
+                                                            Cuatrimestre: 2023-1
                                                             </div>
                                                         </a>
                                                     </div>
