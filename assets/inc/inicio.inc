@@ -9,117 +9,44 @@
 
                         <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
                             <br><br><br>
-                            <h1 class="py-3 text-center text-danger mt-5">Concurso <b>Cibertalento Edoméx 2022<b></h1>
+                            <h1 class="py-3 text-center text-danger mt-5">PROGRAMA <b>BECA CIENCIA COMECYT–EDOMÉX 2023<b></h1>
                             <a href="https://comecyt.edomex.gob.mx/node/334" target="_blank" rel="noopener noreferrer">                            
-                                <img src="img/Cibertalento.png" class="img-fluid my-5" alt="Cibertalento 2022">
+                                <img src="img/becaCiencia.jpg" class="img-fluid my-5" alt="Beca Ciencia 2023">
                             </a>
                             <h3>
-                                CONVOCATORIA PROMOCIÓN 2022: ABIERTA
+                                (ESTUDIOS DE LICENCIATURA)
                             </h3>
                             <h4>
                                 Acerca de
                             </h4>
                             <p class="py-3">
-                                La acción “Cibertalento Edoméx 2022”
-tiene como finalidad principal apoyar e incentivar el desarrollo profesional de personas interesadas en temas de ciberseguridad. 
+                                PRIMERA PROMOCIÓN 2023
                                 <br>
-                                Los aspirantes deberán generar ideas innovadoras mediante la presentación de propuestas tales como aplicativos (Apps)
-páginas de internet
-videos educativos
-modelos de prevención
-cursos de prevención u otros elementos que contribuyan a fortalecer la ciberseguridad en las áreas de:
+                                El Gobierno del Estado de México, a través del Consejo Mexiquense de Ciencia y Tecnología de conformidad con lo establecido
+                                en los numerales 7.1, 7.2, 8.1, 10 y 13.2 de las Reglas de Operación del Programa Beca Ciencia COMECYT-EDOMÉX.
                                 <br>
-                                <ol>
-                                    <li>Educación digital.</li> 
-                                    <li>Ciberacoso.</li> 
-                                    <li>Pliicía cibernética.</li> 
-                                    <li>Ciberseguridad para PYMES.</li> 
-                                    <li>Ciudadanía cibersegura.</li> 
-                                </ol>
-                            </p>
-                            <h4>¿A quién está dirigido?</h4>
-                            <p class="py-3">Desarrollo de aplicativos.
-                                Jóvenes mexiquenses menores de 29 años que actualmente estén cursando sus estudios en instituciones educativas públicas o privadas establecidas en el Estado de México
-o que hayan egresado de alguna carrera enfocada a las áreas de atención. 
-                            </p>
-                            <h4><b>Áreas de atención.</b></h4>
-                            <p class="py-3">
-                                Los interesados en participar mediante la presentación de sus propuestas deberán contar con conocimientos en
-al menos
-alguna de las siguientes áreas:
-                            
-                            <ul>
-                                <li>Desarrollo de aplicativos.</li>
-                                <li>Tecnologías de la información.</li>
-                                <li>Sistemas computacionales.</li>
-                                <li>Lenguajes de programación.</li>
-                                <li>Ciberseguridad.</li>
-                                <li>Mecatrónica.</li>
-                                <li>Internet de las cosas.</li>
-                                <li>Ingeniería social.</li>
-                                <li>Tecnologías educativas.</li>
-                                <li>Otras áreas similares.</li>
-                            </ul>
-                            </p>
-                            <h4><b>Documentos.</b></h4>
-                            <table class="table">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <div class="liLinks my-1">
-                                                <a href="https://comecyt.edomex.gob.mx/sites/comecyt.edomex.gob.mx/files/files/cibertalento/CIBERTALENTO%20CONV-22-ACT%205-9-22_FINAL.pdf" target="_blank" rel="noopener noreferrer">
-                                                    <div class="centrado-v">
-                                                    <i class="fontGrande bx bxs-file-pdf"></i>
-                                                    Convocatoria(CIBERTALENTO CONV-22-ACT 5-9-22_FINAL.pdf)
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </td>
-                                    <tr>
-                                        <td>
-                                            <div class="liLinks my-1">
-                                                <a href="https://comecyt.edomex.gob.mx/sites/comecyt.edomex.gob.mx/files/files/cibertalento/9%20Aviso%20de%20Privacidad%20Integral%20Cibertalento_V3%20TRANSPARENCIA_0.pdf" target="_blank" rel="noopener noreferrer">
-                                                    <div class="centrado-v">
-                                                    <i class="fontGrande bx bxs-file-pdf"></i>
-                                                    Aviso de Privacidad Integral.pdf
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </td>
-                                    <tr>
-                                        <td>
-                                            <div class="liLinks my-1">
-                                                <a href="https://comecyt.edomex.gob.mx/sites/comecyt.edomex.gob.mx/files/files/cibertalento/9%20Aviso%20de%20Privacidad%20Simplificado%20Cibertalento_V3%20TRANSPARENCIA_0.pdf" target="_blank" rel="noopener noreferrer">
-                                                    <div class="centrado-v">
-                                                    <i class="fontGrande bx bxs-file-pdf"></i>
-                                                    Aviso de Privacidad Simplificado.pdf
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </td>
-                                    <tr>
-                                        <td>
-                                            <div class="liLinks my-1">
-                                                <a href="https://comecyt.edomex.gob.mx/sites/comecyt.edomex.gob.mx/files/files/cibertalento/T%C3%A9rminos%20y%20condiciones%20politicas%20de%20seguridad_V4%20TRANSPARENCIA.pdf" target="_blank" rel="noopener noreferrer">
-                                                    <div class="centrado-v">
-                                                    <i class="fontGrande bx bxs-file-pdf"></i>
-                                                    Términos y condiciones.pdf
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                            <br>
-                            <h4>Realiza tu registro en el siguiente enlace:</h4>
-                            <p class="py-3">
-                                <ul>
-                                    <li>
-                                        <a href="https://cibertalento.com" target="_blank" rel="noopener noreferrer">https://cibertalento.com</a>
-                                    </li>
-                                </ul>
-                            </p>
+                                <b>C O N V O C A</b>
+                                <br>
+                                a instituciones públicas de educación superior del Estado de México para que postulen a estudiantes que hayan sido aceptados
+                                en sus programas escolarizados de licenciatura para cursar alguno de los periodos escolares correspondientes a los primeros
+                                dos años del programa de estudios, con el objetivo de contribuir a su mejoramiento socioeconómico a través de la entrega de
+                                apoyos monetarios para su formación y desarrollo profesional;
+                                <br>
+                                Conoce todos los detalles en el siguiente Link:
+                                <br>
+                                <a href="https://comecyt.edomex.gob.mx/ciencias-edmex">https://comecyt.edomex.gob.mx/ciencias-edmex</a>
+
+                                <h2>Nota importante:</h2>
+                                <br>
+                                <b>Para registrarte necesitaras los siguientes documentos:</b>
+                                <br>
+                                Plan de Estudios: Mapa de distribución cuatrimestral
+                                <br>
+                                <a href="https://drive.google.com/file/d/15yrDzUfkRRowaRKD087DoRE8-gjqM3-S/view?usp=share_link">IRD (Infraestructura en Redes Digitales)</a>
+                                <br>
+                                <a href="https://drive.google.com/file/d/19ENSvOjQen7lmS7WQdotb_2iL80a75QK/view?usp=sharing">IRIC (Ingeniería en Redes Digitales y Ciberseguridad)</a>
+                                
+
 
 
                             
