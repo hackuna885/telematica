@@ -48,11 +48,8 @@
                                 <a href="https://drive.google.com/file/d/15yrDzUfkRRowaRKD087DoRE8-gjqM3-S/view?usp=share_link" class="liLinks" style="color: blue;" target="_blank" rel="noopener noreferrer">IRD (Infraestructura en Redes Digitales)</a>
                                 <br>
                                 <a href="https://drive.google.com/file/d/19ENSvOjQen7lmS7WQdotb_2iL80a75QK/view?usp=sharing" class="liLinks" style="color: blue;" target="_blank" rel="noopener noreferrer">IRIC (Ingeniería en Redes Digitales y Ciberseguridad)</a>
-                                
-
-
-
-                            
+                                <br>
+                                <br>
                         </div>
                         <br>
                         <br>
