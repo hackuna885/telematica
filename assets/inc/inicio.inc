@@ -15,12 +15,14 @@
                             </a>
                             <br>
                             <br>    
-                            <h3>
+                            <h3 class="text-center">
                                 (ESTUDIOS DE LICENCIATURA)
                             </h3>
-                            <h4>
+                            <br>
+                            <h4 class="text-center">
                                 PRIMERA PROMOCIÓN 2023
                             </h4>
+                            <br>
                             <p class="py-3">                                
                                 <br>
                                 El Gobierno del Estado de México, a través del Consejo Mexiquense de Ciencia y Tecnología de conformidad con lo establecido
@@ -39,9 +41,10 @@
 
                                 <h2>Nota importante:</h2>
                                 <br>
-                                <p>Para registrarte necesitaras los siguientes documentos:</p>
+                                <p>
+                                Para registrarte necesitaras los siguientes documentos:
                                 <br>
-                                <p>Plan de Estudios: Mapa de distribución cuatrimestral</p>
+                                Plan de Estudios: Mapa de distribución cuatrimestral</p>
                                 <br>
                                 <a href="https://drive.google.com/file/d/15yrDzUfkRRowaRKD087DoRE8-gjqM3-S/view?usp=share_link" class="liLinks" style="color: blue;" target="_blank" rel="noopener noreferrer">IRD (Infraestructura en Redes Digitales)</a>
                                 <br>
