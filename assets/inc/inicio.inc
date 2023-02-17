@@ -15,14 +15,13 @@
                             </a>
                             <br>
                             <br>    
-                            <h3 class="text-center">
+                            <h3 style="text-align: center;">
                                 (ESTUDIOS DE LICENCIATURA)
                             </h3>
                             <br>
-                            <h4 class="text-center">
+                            <h4 style="text-align: center;">
                                 PRIMERA PROMOCIÓN 2023
                             </h4>
-                            <br>
                             <p class="py-3">                                
                                 <br>
                                 El Gobierno del Estado de México, a través del Consejo Mexiquense de Ciencia y Tecnología de conformidad con lo establecido
@@ -55,6 +54,8 @@
 
                             
                         </div>
+                        <br>
+                        <br>
                         <div class="col-12 rounded shadow-sm rounded pb-5 mt-5"></div>
 
                         <!-- <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
