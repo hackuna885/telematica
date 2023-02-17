@@ -10,17 +10,18 @@
                         <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
                             <br><br><br>
                             <h1 class="py-3 text-center text-danger mt-5">PROGRAMA <b>BECA CIENCIA COMECYT–EDOMÉX 2023<b></h1>
-                            <a href="https://comecyt.edomex.gob.mx/node/334" target="_blank" rel="noopener noreferrer">                            
+                            <a href="https://comecyt.edomex.gob.mx/ciencias-edmex" target="_blank" rel="noopener noreferrer">                            
                                 <img src="img/becaCiencia.jpg" class="img-fluid my-5" alt="Beca Ciencia 2023">
                             </a>
+                            <br>
+                            <br>    
                             <h3>
                                 (ESTUDIOS DE LICENCIATURA)
                             </h3>
                             <h4>
-                                Acerca de
-                            </h4>
-                            <p class="py-3">
                                 PRIMERA PROMOCIÓN 2023
+                            </h4>
+                            <p class="py-3">                                
                                 <br>
                                 El Gobierno del Estado de México, a través del Consejo Mexiquense de Ciencia y Tecnología de conformidad con lo establecido
                                 en los numerales 7.1, 7.2, 8.1, 10 y 13.2 de las Reglas de Operación del Programa Beca Ciencia COMECYT-EDOMÉX.
@@ -38,13 +39,13 @@
 
                                 <h2>Nota importante:</h2>
                                 <br>
-                                <b>Para registrarte necesitaras los siguientes documentos:</b>
+                                <p>Para registrarte necesitaras los siguientes documentos:</p>
                                 <br>
-                                Plan de Estudios: Mapa de distribución cuatrimestral
+                                <p>Plan de Estudios: Mapa de distribución cuatrimestral</p>
                                 <br>
-                                <a href="https://drive.google.com/file/d/15yrDzUfkRRowaRKD087DoRE8-gjqM3-S/view?usp=share_link">IRD (Infraestructura en Redes Digitales)</a>
+                                <a href="https://drive.google.com/file/d/15yrDzUfkRRowaRKD087DoRE8-gjqM3-S/view?usp=share_link" class="liLinks" style="color: blue;" target="_blank" rel="noopener noreferrer">IRD (Infraestructura en Redes Digitales)</a>
                                 <br>
-                                <a href="https://drive.google.com/file/d/19ENSvOjQen7lmS7WQdotb_2iL80a75QK/view?usp=sharing">IRIC (Ingeniería en Redes Digitales y Ciberseguridad)</a>
+                                <a href="https://drive.google.com/file/d/19ENSvOjQen7lmS7WQdotb_2iL80a75QK/view?usp=sharing" class="liLinks" style="color: blue;" target="_blank" rel="noopener noreferrer">IRIC (Ingeniería en Redes Digitales y Ciberseguridad)</a>
                                 
 
 
