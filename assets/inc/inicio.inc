@@ -57,7 +57,7 @@
                             <h2>Calendario Escolar 2023-2024</h2>
                             <br>
                             <a href="https://drive.google.com/file/d/1BYIPmLxnH9YBsmuZWdAgjGdc6gKNA1Jm/view?usp=share_link">
-                                <img src="https://drive.google.com/file/d/17LQUO4YVx3-BlQDM3e28Dhs6ZmsA3rKz/view?usp=sharing" class="img-fluid" alt="Calendario Escolar">
+                                <img src="img/CALENDARIO_ESCOLAR_22022023.jpg" class="img-fluid" alt="Calendario Escolar">
                             </a>
                             <br>
                             <br>
