@@ -53,7 +53,15 @@
                         </div>
                         <br>
                         <br>
-                        <div class="col-12 rounded shadow-sm rounded pb-5 mt-5"></div>
+                        <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
+                            <h2>Calendario Escolar 2023-2024</h2>
+                            <br>
+                            <a href="https://drive.google.com/file/d/1BYIPmLxnH9YBsmuZWdAgjGdc6gKNA1Jm/view?usp=share_link">
+                                <img src="https://drive.google.com/file/d/17LQUO4YVx3-BlQDM3e28Dhs6ZmsA3rKz/view?usp=sharing" class="img-fluid" alt="Calendario Escolar">
+                            </a>
+                            <br>
+                            <br>
+                        </div>
 
                         <!-- <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
                             <h1 class="py-3 text-center text-danger mt-5">Beneficiados por Beca Ciencia 2022</h1>
