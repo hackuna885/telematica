@@ -141,7 +141,7 @@
                                                             <a href="https://drive.google.com/file/d/1MZkSShE41wBQVjlAUVLJznJ4XGosPmap/view?usp=share_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                IRICE 702
+                                                                IRICE 801
                                                                 </div>
                                                             </a>
                                                         </div>
