@@ -161,7 +161,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1FAwA0Pfg8yQGIzTfPtP9gCsi-3PjiWsH/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="#" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Lab Biblioteca
