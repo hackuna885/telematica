@@ -75,7 +75,7 @@ initial-scale=1.0">
                                 include 'assets/inc/califica2023_1.inc';
                                 break;
                             case 'listas':
-                                include 'assets/inc/listas2023_1.inc';
+                                include 'assets/inc/listas2023_2.inc';
                                 break;
                             case 'especiales':
                                 include 'assets/inc/especiales.inc';
