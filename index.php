@@ -66,7 +66,7 @@ initial-scale=1.0">
                                 include 'assets/inc/inicio.inc';
                                 break;
                             case 'horarios':
-                                include 'assets/inc/horarios2023_1.inc';
+                                include 'assets/inc/horarios2023_2.inc';
                                 break;
                             case 'aulas':
                                 include 'assets/inc/aulas2023_2.inc';
