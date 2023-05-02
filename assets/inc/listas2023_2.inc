@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Listas de Grupo (provisionales) 2023-2</h1>
                             <p class="py-3 text-center">
-                                Actualización 29/04/2023 11:11 a.m.
+                                Actualización 02/05/2023 13:31 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">
