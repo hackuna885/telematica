@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Listas de Grupo 2023-3</h1>
                             <p class="py-3 text-center">
-                                Actualización 29/08/2023 12:29 p.m.
+                                Actualización 30/08/2023 17:47 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">
