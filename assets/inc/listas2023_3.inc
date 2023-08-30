@@ -137,7 +137,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1R35mJ5Yau5vegtgF-_j-YUBVIDVn9GUc/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRICE 701 (EJECUTIVA)
@@ -149,7 +149,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1ZTKJL64M98KZb9FtQsCjdQK8HAW6qsfN/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRICE 702 (EJECUTIVA)
