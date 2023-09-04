@@ -1,11 +1,11 @@
                     <div class="row contenido">
-                        <div class="col-12 mx-auto text-center mb-5">
+                        <!-- <div class="col-12 mx-auto text-center mb-5">
                             <div>
                                 <video class="video-fluid z-depth-1 mx-auto text-center" autoplay loop controls muted width="100%">
                                     <source src="videos/serDragon.mp4" type="video/mp4"/>
                                 </video>                              
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
                             <br><br><br>
@@ -54,6 +54,15 @@
                         <br>
                         <br>
                         <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
+                            <h2>#HACK4EDU 2023</h2>
+                            <br>
+                            <a href="https://profuturo.education/hack4edu/">
+                                <img src="img/ComprometidosConLaEducaciónFTMovistar_red.jpg" class="img-fluid" alt="Calendario Escolar">
+                            </a>
+                            <br>
+                            <br>
+                        </div>
+                        <!-- <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
                             <h2>Evaluación Docente 2023</h2>
                             <br>
                             <a href="https://evaluacionutfv.com/edutfv/usuario.html">
@@ -61,7 +70,7 @@
                             </a>
                             <br>
                             <br>
-                        </div>
+                        </div> -->
                         <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
                             <h2>Calendario Escolar 2023-2024</h2>
                             <br>
