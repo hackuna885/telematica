@@ -2,7 +2,7 @@
 
                         <div class="col-12 rounded shadow-sm rounded pb-5">
                             
-                            <h1 class="py-3 text-center">Concentrado de calificaciones 2023-2</h1>
+                            <h1 class="py-3 text-center">Concentrado de calificaciones 2023-3</h1>
                             <p class="py-3 text-center">
                                 Actualización 11/12/2023 10:20 p.m.
                             </p>
