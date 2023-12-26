@@ -18,7 +18,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/11NaaFMGwiMfE8vCZoCKoq1mIsaErxmPN/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1diVojQygNOQ8xNnzmn7iKldJ2X6MroHb/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             D100
@@ -30,7 +30,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1G3adU42izrvGS8RP_3nWUx47LRj3LZS8/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/15SnHu2or4a1dZAvP9YUdg0G-kcGspBOV/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             D201
@@ -42,7 +42,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1dKPLVBZA9eqNUh5MxQ2TYV8E9-mzdi4m/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1tvtfMZuDNln5kzNDd9y9anmO231rh3z1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             D202
@@ -66,22 +66,10 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1O6eHHRP2kLziwF9qceDDUdEr_i6HwF88/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1AIg81rdvCU3X5KPC4SxsWX211fmJ76eJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             D207
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1ge4fnm2ozNnyGeIoapvXtGXbxDX30IY-/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-                                                            <div class="centrado-v">
-                                                            <i class="fontGrande bx bxs-file-pdf"></i>
-                                                            D209
                                                             </div>
                                                         </a>
                                                     </div>
@@ -102,7 +90,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1Q0ICoRR8zBNmO2gfEgwhAORloj5Hi1hK/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1P859y-7JXmsLv_CLvM2MSUXLIJlK39Dv/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             K105
@@ -114,7 +102,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1W-zxB51POYTRpmgtTbGarOQGq8vG63qA/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1ThBPTpdesYda80GTgp_UBLjQYGhIJidZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             K Lab Dirección
@@ -137,7 +125,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/14Gvw-C9iU-EhFGhis94plLjwtPTJTvXD/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1P9faO2OZ69E6q5fyeoTve6TbVho-YwBa/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Lab G P-A
