@@ -20,7 +20,7 @@ initial-scale=1.0">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <title>UTFV - Telemática 2023-3</title>
+    <title>UTFV - Telemática 2024-1</title>
 </head>
 <body oncontextmenu="return false">
     <div id="app" >
