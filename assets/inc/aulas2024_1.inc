@@ -42,7 +42,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1tvtfMZuDNln5kzNDd9y9anmO231rh3z1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1Stmjfj-_uLZjIOirUaZ-TiyiTssYCRul/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             D202
