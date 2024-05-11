@@ -53,7 +53,7 @@
                         </div> -->
                         <br>
                         <br>
-                        <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
+                        <!-- <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
                             <h2>#HACK4EDU 2023</h2>
                             <br>
                             <a href="https://profuturo.education/hack4edu/">
@@ -61,7 +61,7 @@
                             </a>
                             <br>
                             <br>
-                        </div>
+                        </div> -->
                         <!-- <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
                             <h2>Evaluación Docente 2023</h2>
                             <br>
@@ -72,10 +72,10 @@
                             <br>
                         </div> -->
                         <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
-                            <h2>Calendario Escolar 2023-2024</h2>
+                            <h2>Calendario Escolar 2024-2025</h2>
                             <br>
-                            <a href="https://drive.google.com/file/d/1BYIPmLxnH9YBsmuZWdAgjGdc6gKNA1Jm/view?usp=share_link">
-                                <img src="img/CALENDARIO_ESCOLAR_22022023.jpg" class="img-fluid" alt="Calendario Escolar">
+                            <a href="https://drive.google.com/file/d/1iCKKXq87VLQNj3DrCfn81XK3Yq9Z5J0i/view?usp=sharing">
+                                <img src="img/calendario2024.jpg" class="img-fluid" alt="Calendario Escolar">
                             </a>
                             <br>
                             <br>
