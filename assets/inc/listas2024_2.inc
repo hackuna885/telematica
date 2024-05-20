@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Listas de Grupo 2024-2</h1>
                             <p class="py-3 text-center">
-                                Actualización 10/05/2024 21:22 p.m.
+                                Actualización 20/05/2024 21:22 p.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">
@@ -18,7 +18,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1kAHEQ7SJORQj2A2EuPVxrdW_ARWrahJr/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRD301
@@ -30,7 +30,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1CiZ37xa2TTGV_MscOewtn8QqBSWere0R/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRD302
@@ -42,7 +42,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/14dLG-8qmMxFZ6iGuD-1uxRmIZI5h3Tgp/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRD303 (VESPERTINO)
@@ -54,7 +54,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1cR_SDu9Ott01BO6tg2X32PhHAkb6Ayb_/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             IRD 501
