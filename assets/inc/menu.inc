@@ -22,14 +22,14 @@
                         </a>
                     </li>                 
                 </ul>
-                <ul class="list-unstyled components">
+                <!-- <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=califica" class="py-3">
                             <i class="bx bx-book-bookmark mx-2"></i>
                             <span class="links_name">Calificaciones</span>
                         </a>
                     </li>                 
-                </ul>
+                </ul> -->
                 <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=listas" class="py-3">

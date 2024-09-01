@@ -8,7 +8,8 @@
                             <p style="text-align: center;">
                                 Atención: <a href="mailto:dirac.telematica@utfv.edu.mx"><b>dirac.telematica@utfv.edu.mx</b></a>
                                 <br>
-                                Tel: <a href="tel:+525526493143"><b>55-2649-3143 Ext: 234</b></a> Whats: <a href="https://api.whatsapp.com/send?phone=5573912775"><b>55-7391-2775</b></a>
+                                Tel: <a href="tel:+525526493143"><b>55-2649-3143 Ext: 234</b>
+                                <!-- </a> Whats: <a href="https://api.whatsapp.com/send?phone=5573912775"><b>55-7391-2775</b></a> -->
                                 
                             </p>
                             <br>
