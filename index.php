@@ -69,13 +69,13 @@ initial-scale=1.0">
                                 include 'assets/inc/horarios2025_1.inc';
                                 break;
                             case 'aulas':
-                                include 'assets/inc/aulas2024_3.inc';
+                                include 'assets/inc/aulas2025_1.inc';
                                 break;
                             case 'califica':
                                 include 'assets/inc/califica2024_3.inc';
                                 break;
                             case 'listas':
-                                include 'assets/inc/listas2024_3.inc';
+                                include 'assets/inc/listas2025_1.inc';
                                 break;
                             case 'especiales':
                                 include 'assets/inc/especiales.inc';
