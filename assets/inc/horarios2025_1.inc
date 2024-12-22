@@ -498,5 +498,33 @@
                                         </table>
                                     </div>
                                 </div>
+                                <br>
+                                <br>
+                                <h2 class="py-3 text-center">Descarga todos los Horarios de Grupo</h2>
+                                <div class="row">
+                                    <div class="col-md-6 col-12">
+                                        <table class="table">
+                                            <thead>
+                                                <tr>
+                                                    <th>Diseño, Redes y Ciencia de Datos</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <div class="liLinks my-1">
+                                                            <a href="https://drive.google.com/file/d/1RQ7Mv7WO8_AINghp1hMRTpSbnYfuM7PE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                                                                <div class="centrado-v">
+                                                                    <i class="fontGrande bx bxs-file-pdf"></i>
+                                                                    Horarios de Grupo 2025-1
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
                             </div>
                         </div>
