@@ -41,9 +41,9 @@
                         
 
                         <div class="col-12 rounded shadow-sm rounded pb-5 mt-5">
-                            <h2>Calendario Escolar 2024-2025</h2>
+                            <h2>Calendario Escolar 2025-2026</h2>
                             <br>
-                            <a href="https://drive.google.com/file/d/1iCKKXq87VLQNj3DrCfn81XK3Yq9Z5J0i/view?usp=sharing">
+                            <a href="https://drive.google.com/file/d/1UqdJnKe2njSC1PbquhUd2N6uEXmJdu7g/view?usp=sharing">
                                 <img src="img/calendario2024.jpg" class="img-fluid" alt="Calendario Escolar">
                             </a>
                             <br>
