@@ -44,7 +44,7 @@
                             <h2>Calendario Escolar 2025-2026</h2>
                             <br>
                             <a href="https://drive.google.com/file/d/1UqdJnKe2njSC1PbquhUd2N6uEXmJdu7g/view?usp=sharing">
-                                <img src="img/calendario2024.jpg" class="img-fluid" alt="Calendario Escolar">
+                                <img src="img/calendario2025.jpg" class="img-fluid" alt="Calendario Escolar">
                             </a>
                             <br>
                             <br>
