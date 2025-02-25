@@ -18,7 +18,7 @@
                                             <tr>
                                                 <td>
                                                     <div class="liLinks my-1">
-                                                        <a href="https://drive.google.com/file/d/1jHNXON0FtqQgEWWyzM6MoVZcM2KlU1mX/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                        <a href="https://drive.google.com/file/d/1b_QkXivy7UtgRGvwfdSNKClh0gaWWIQs/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                             <div class="centrado-v">
                                                             <i class="fontGrande bx bxs-file-pdf"></i>
                                                             Ciencia de Datos
@@ -29,7 +29,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="https://drive.google.com/file/d/1U4hplwSzo1p6riLyeh56Vd86oOzF6fbO/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1Jaasjo36HV1NuQ2feUXwIPMpo37LZc-1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
                                                                 Infraestructura de Redes Digitales
@@ -41,7 +41,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="https://drive.google.com/file/d/1ixXZwVxI4a6oRY29HQVKMQeOa9LxepCs/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1xIhCinvqmGwPHlMSgM2MMX-u3owA8JMl/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                 <i class="fontGrande bx bxs-file-pdf"></i>
                                                                 Diseño y Animación Digital
