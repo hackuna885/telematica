@@ -83,6 +83,9 @@ initial-scale=1.0">
                             case 'documentos':
                                 include 'assets/inc/documentos.inc';
                                 break;
+                            case 'mapa':
+                                include 'assets/inc/mapa.inc';
+                                break;
                             
                             default:
                                 include 'assets/inc/inicio.inc';
