@@ -4,7 +4,7 @@
                             
                             <h1 class="py-3 text-center">Listas de Grupo 2024-1</h1>
                             <p class="py-3 text-center">
-                                Actualización 15/01/2024 17:48 a.m.
+                                Actualización 18/03/2024 17:48 a.m.
                             </p>
                             <div class="row">
                                 <div class="col-md-6 col-12">
