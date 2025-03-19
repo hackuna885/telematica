@@ -22,14 +22,14 @@
                         </a>
                     </li>                 
                 </ul>
-                <ul class="list-unstyled components">
+                <!-- <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=califica" class="py-3">
                             <i class="bx bx-book-bookmark mx-2"></i>
                             <span class="links_name">Calificaciones</span>
                         </a>
                     </li>                 
-                </ul>
+                </ul> -->
                 <ul class="list-unstyled components">
                     <li>
                         <a href="menu.aspx?id=listas" class="py-3">
@@ -51,6 +51,14 @@
                         <a href="menu.aspx?id=documentos" class="py-3">
                             <i class="bx bx-list-ul mx-2"></i>
                             <span class="links_name">Documentos</span>
+                        </a>
+                    </li>                 
+                </ul>
+                <ul class="list-unstyled components">
+                    <li>
+                        <a href="menu.aspx?id=mapa" class="py-3">
+                            <i class="bx bx-list-ul mx-2"></i>
+                            <span class="links_name">Mapa Curricular</span>
                         </a>
                     </li>                 
                 </ul>

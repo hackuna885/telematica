@@ -1,12 +1,12 @@
 @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 
 
-$colorUno: #1d1b31;
-$colorDos: #322e57;
-$colorTres: #47417e;
+$colorUno: #56212f;
+$colorDos: #56212f;
+$colorTres: #977e5b;
 $colorCuatro: #37352F;
 $colorCinco: #73726E;
-$colorSeis: #7DCB32;
+$colorSeis: #c3b08f;
 
 *{
     margin: 0px;
@@ -44,10 +44,7 @@ a:focus {
     border: none;
     border-radius: 0;
     margin-bottom: 40px;
-    box-shadow: 1px 1px 3px rgba(0
-0
-0
-0.1);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-btn {
