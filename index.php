@@ -20,7 +20,7 @@ initial-scale=1.0">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <title>UTFV - Telemática 2025-1</title>
+    <title>UTFV - Telemática 2025-2</title>
 </head>
 <body oncontextmenu="return false">
     <div id="app" >
@@ -66,13 +66,13 @@ initial-scale=1.0">
                                 include 'assets/inc/inicio.inc';
                                 break;
                             case 'horarios':
-                                include 'assets/inc/horarios2025_1.inc';
+                                include 'assets/inc/horarios2025_2.inc';
                                 break;
                             case 'aulas':
-                                include 'assets/inc/aulas2025_1.inc';
+                                include 'assets/inc/aulas2025_2.inc';
                                 break;
                             case 'califica':
-                                include 'assets/inc/califica2024_3.inc';
+                                include 'assets/inc/califica2025_1.inc';
                                 break;
                             case 'listas':
                                 include 'assets/inc/listas2025_1.inc';
