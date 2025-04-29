@@ -71,15 +71,15 @@ initial-scale=1.0">
                             case 'aulas':
                                 include 'assets/inc/aulas2025_2.inc';
                                 break;
-                            case 'califica':
-                                include 'assets/inc/califica2025_1.inc';
-                                break;
+                            // case 'califica':
+                            //     include 'assets/inc/califica2025_1.inc';
+                            //     break;
                             case 'listas':
-                                include 'assets/inc/listas2025_1.inc';
+                                include 'assets/inc/listas2025_2.inc';
                                 break;
-                            case 'especiales':
-                                include 'assets/inc/especiales.inc';
-                                break;
+                            // case 'especiales':
+                            //     include 'assets/inc/especiales.inc';
+                            //     break;
                             case 'documentos':
                                 include 'assets/inc/documentos.inc';
                                 break;
