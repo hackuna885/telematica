@@ -19,7 +19,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1CQFXYc5Sfbbus-xEzMdFPuYsmcWPg84L/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     CD301
@@ -51,7 +51,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1HoS-FFo7iMDTwZiCbLhfKlZpxecPuZfg/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     IRD301
@@ -63,7 +63,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1LejniOLHqzHRPaOWur2e2boDkq4gQfrO/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     IRD302
@@ -87,7 +87,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1U9BLtscud1Cu-bhvtOaISB46ucItIYql/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     IRICE801 (EJECUTIVA)
@@ -99,7 +99,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/18BKwSfVKiS_iGPB8k3Cn8iVrHtfwTZAA/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     IRICE901 (EJECUTIVA)
@@ -111,7 +111,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1YwAKhlM-8gJQyIAb6JNcc5BDbvIRobco/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     IRICE902 (EJECUTIVA)
@@ -142,7 +142,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/16pD1yWlJZkJSNx2T2Z4wjxBxMiM4pVIl/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DAD201
@@ -154,7 +154,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1qIAki6SwhzAnrZejInGxJOiDesCiHeHc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DAD301
@@ -166,7 +166,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1Zc2JfcIysVlK9dnwowisHALYsasuSQi3/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DAD302
@@ -178,7 +178,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/11Ctrs6geEicgBGmoAuL4zrbk3CSJIgvE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DAD303
@@ -190,7 +190,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1FZKnd5vum4QOI-4W175pZGwq5P3GLkpp/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DAD304
@@ -202,7 +202,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1MvKR5PpXiVX3VnZ9i3aTUcT-E6Icov_5/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DAD305 (Vespertino)
@@ -214,7 +214,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1s93b4_bkw61XS23tPzeqjREIdK8yhuvQ/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DAD306 (Vespertino)
@@ -226,7 +226,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1aGqpXwLmWzXvsHnJhCCeF9OTv8LO0oRK/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DAD307 (Vespertino)
@@ -238,7 +238,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1FL5WM_4PSo740fY8ef1AQ5ciVkpEML_z/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DAD308 (Vespertino)
@@ -250,7 +250,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1MEDvI8Fz29NWc5mEDzprACLatE_zTaX_/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DAD309 (Vespertino)
@@ -281,7 +281,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1VFRqtnid6n1ENYuny1yqGYquuFrl5jK8/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DDA401
@@ -293,7 +293,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1BAgfOl8MV9r9ZV-W-wFAi9PJ1PHduslF/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     DDA501
@@ -329,7 +329,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1tukiWDAuYniUz2SOSZN7XSR5nQFdexE9/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     LDDPA801
@@ -341,7 +341,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1PV4SxZs7gusluVsP1rnRWvVvXOd2aUPy/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     LDDPA802
@@ -353,7 +353,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1HEEkV4casZ3q5FKOcxtM21bpFghaGgFu/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     LDDPA901
@@ -365,7 +365,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1_3G-2a9yyCzqYJK9m2wWcWX-nPTTnYYl/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     LDDPA902
@@ -377,7 +377,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1Zs0hnrGRd3UEJGsVw7L9p1YPhfi6ud_N/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     LDDPA903
@@ -389,7 +389,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/1ggbIINKGCj_z7j4paKN4jbCBTfw_QgJH/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     LDDPAE904 (EJECUTIVA)
@@ -401,7 +401,7 @@
                                                 <tr>
                                                     <td>
                                                         <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
+                                                            <a href="https://drive.google.com/file/d/19vQOyYFgjZ4jfPgGqYEM3ACpyABHlwTI/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                                                                 <div class="centrado-v">
                                                                     <i class="fontGrande bx bxs-file-pdf"></i>
                                                                     LDDPA1001
@@ -416,31 +416,5 @@
                                 </div>
                                 <br>
                                 <br>
-                                <h2 class="py-3 text-center">Descarga todos los Horarios de Grupo</h2>
-                                <div class="row">
-                                    <div class="col-md-6 col-12">
-                                        <table class="table">
-                                            <thead>
-                                                <tr>
-                                                    <th>Diseño, Redes y Ciencia de Datos</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>
-                                                        <div class="liLinks my-1">
-                                                            <a href="#" target="_blank" rel="noopener noreferrer">
-                                                                <div class="centrado-v">
-                                                                    <i class="fontGrande bx bxs-file-pdf"></i>
-                                                                    Horarios de Grupo 2025-2
-                                                                </div>
-                                                            </a>
-                                                        </div>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                </div>
                             </div>
                         </div>
